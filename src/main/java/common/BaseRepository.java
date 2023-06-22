@@ -54,7 +54,7 @@ public void add(ENTITY entity){
   return new ArrayList<>();
     }
     public void writeFile(List<ENTITY> entities){
-         try(ObjectOutputStream outputStream = new ObjectOutputStream(new FileOutputStream("src/main/java/user/User.txt"))) {
+         try(ObjectOutputStream outputStream = new ObjectOutputStream(new FileOutputStream(getFilePath()))) {
              outputStream.writeObject(entities);
          } catch (IOException e) {
              throw new RuntimeException(e);

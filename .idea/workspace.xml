@@ -5,15 +5,16 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e82b3107-3c8f-4c52-91d9-59d246c4e57e" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/bot/MyBot.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/common/BaseEntity.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/common/BaseRepository.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/common/Repository.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/user/LanguageType.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/user/User.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/user/UserState.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/user/UserType.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/user/PhoneNumberValidator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/user/UserRepository.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/bot/MyBot.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/bot/MyBot.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/common/BaseEntity.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/common/BaseEntity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/common/BaseRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/common/BaseRepository.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/user/LanguageType.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/user/LanguageType.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/user/User.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/user/User.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/user/UserState.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/user/UserState.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/user/UserType.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/user/UserType.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -23,8 +24,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Class" />
         <option value="Enum" />
+        <option value="Class" />
       </list>
     </option>
   </component>
@@ -97,7 +98,7 @@
       <option name="presentableId" value="Default" />
       <updated>1687359210529</updated>
       <workItem from="1687359211880" duration="6048000" />
-      <workItem from="1687392414111" duration="1500000" />
+      <workItem from="1687392414111" duration="3024000" />
     </task>
     <servers />
   </component>
